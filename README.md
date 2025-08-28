@@ -2,6 +2,13 @@ ATORCH USB Energy Monitor GUI
 
 ![ATORCH Energy Monitor Screenshot](https://github.com/peterpt/Atorch-Energy-Monitor/blob/main/atorch.png)
 
+
+** Hardware
+  ![ATORCH Energy Monitor Hardware](https://github.com/peterpt/Atorch-Energy-Monitor/blob/main/energycontroler.png)
+
+
+** About
+
 A cross-platform graphical user interface for monitoring ATORCH USB energy meters in real-time. This tool provides a visual representation of key electrical measurements and plots historical data on an interactive chart.
 
 (To use the image above, you can use the provided Imgur link or add your own screenshot named screenshot.png to the root of your repository and change the line to ![ATORCH Energy Monitor Screenshot](screenshot.png))
