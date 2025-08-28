@@ -63,7 +63,7 @@ Option A: Recommended for Most Users (Pre-compiled Version)
 
     Navigate to the Releases page of this repository.
 
-    Download the latest ATORCH-Monitor.zip file.
+    Download the latest windows7_32bit_release.xip file.
 
     Extract the zip file.
 
